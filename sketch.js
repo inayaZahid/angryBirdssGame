@@ -97,7 +97,7 @@ console.log(dt)
 var hr= dt.slice(11,13);
 console.log(hr);
 if(hr>=6 && hr<=19){
-bg=(bg.png");
+bg=("bg.png");
 }
 else{
     bg="bg2.jpg";
